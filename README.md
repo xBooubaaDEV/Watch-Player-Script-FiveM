@@ -5,3 +5,5 @@ Watch players’ screens in real-time on your FiveM server.
 
 💰 Script currently for sale
 👉 Join the Discord: https://discord.gg/s2MVJ2yBpZ
+
+Preview : https://www.youtube.com/watch?v=lHfBYHl6Uqc
